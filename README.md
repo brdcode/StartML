@@ -1,2 +1,2 @@
 # StartML
-K/C StartML course
+This is the `code` repo from **K/C StartML** course.
