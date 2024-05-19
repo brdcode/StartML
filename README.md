@@ -5,9 +5,7 @@ Welcome to the **Start ML** course repository from **Karpov.Courses**. This repo
 ## Course Structure
 
 ### Module 2: Applied Development in Python
-- Focus on practical Python development.
-- Tasks related to real-world programming scenarios and applications.
-- Emphasis on developing robust and efficient Python code.
+- **Lesson 01:** Introduction to key terms, basic Python syntax, dynamic typing, and basic data structures (list, tuple, dict, set). Learn to write loops (for, while), conditional statements (if, elif, else), and use break and continue.
 
 ### Module 3: Machine Learning and Applications
 - Introduction to machine learning concepts and techniques.
