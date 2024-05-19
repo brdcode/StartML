@@ -1,6 +1,6 @@
 # Start ML Course Repository
 
-Welcome to the **Start ML** course code and tasks repository from **Karpov.Courses**. This repository contains tasks and assignments from the course, designed to guide you through the fundamentals of machine learning and related areas. The course is structured into several modules, each focusing on different aspects of applied development and data analysis.
+Welcome to the **Start ML** course repository from **Karpov.Courses**. This repository contains tasks and assignments from the course, designed to guide you through the fundamentals of machine learning and related areas. The course is structured into several modules, each focusing on different aspects of applied development and data analysis.
 
 ## Course Structure
 
